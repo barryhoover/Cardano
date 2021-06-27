@@ -1,0 +1,69 @@
+/* ======== Global Style ======== */
+body {
+    margin: 0;
+    font-family: arial;
+    font-size: 21px;
+}
+
+/* ======== Typography ======== */
+
+h1 {
+  font-size: 45px;
+  text-align: center;
+  padding: 20px 50px;
+  color: #04388c;
+}
+
+h2 {
+  font-size: 36px;
+  color: #04388c;
+  text-align: center;
+  }
+
+h3{
+  font-size: 28px;
+}
+
+/* ======== Layout ======== */
+
+header{
+  background-color: white;
+  color: white;
+  padding: 0 15px;
+
+}
+
+.center {
+  display: block;
+  margin: 30px auto;
+  width: 50%;
+}
+
+/* Don't have to style the <main> section */
+
+.intro{
+  color: black;
+  text-align: justify;
+  padding: 0 50px 30px 50px;
+}
+
+.blank{
+  back-ground-color: #0a194a;
+  margin: 20px auto;
+}
+
+.my-skills{
+  background-color: #0a194a;
+  color: white;
+  padding: 10px 0;
+  text-align: center;
+}
+
+.columns{
+  display: flex;
+}
+
+.column{
+
+  padding: 0 60px;
+}
