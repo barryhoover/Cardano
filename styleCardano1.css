@@ -14,8 +14,7 @@ body {
   font-family: arial;
   font-size: 12px;
   text-align: justify;
-  z-index: 1; /* Stay on top */
-  top: 50px;
+  
   left: 0;
   overflow-x: hidden; /* Disable horizontal scroll */
   padding-top: 20px;
