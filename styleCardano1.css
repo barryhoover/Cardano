@@ -5,6 +5,11 @@ body {
     font-size: 21px;
 }
 
+div {
+  column-count: 2;
+}
+
+/*----Column 1---- */
 .sidebar{
   column-width: 150px;
   background-color: #0c0461;
@@ -16,6 +21,7 @@ body {
 
 }
 
+/*----Column 2----*/
 .main{
   background-color: white;
   color: blue
