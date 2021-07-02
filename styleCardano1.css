@@ -5,6 +5,21 @@ body {
     font-size: 21px;
 }
 
+.sidebar{
+  background-color: #0c0461;
+  color: white
+  text-align: justify;
+  a.five:link {color:white;text-decoration:none;}
+  a.five:visited {color:white;text-decoration:none;}
+  a.five:hover {text-decoration:underline;}
+
+}
+
+.main{
+  background-color: white;
+  color: blue
+}
+
 /* ======== Typography ======== */
 
 h1 {
@@ -71,13 +86,5 @@ header{
     
 }
 
-.sidebar{
-  background-color: #0c0461;
-  color: white
-  text-align: justify;
-  a.five:link {color:white;text-decoration:none;}
-  a.five:visited {color:white;text-decoration:none;}
-  a.five:hover {text-decoration:underline;}
-
-} 
+ 
 
