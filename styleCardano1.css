@@ -10,12 +10,12 @@ body {
 .sidenav{
   column-width: 100px;
   position: fixed;
-  background-color: blue;
+  background-color: #0c0461;
   font-family: arial;
   font-size: 12px;
   text-align: justify;
   z-index: 1; /* Stay on top */
-  top: 0; /* Stay at the top */
+  top: 50px;
   left: 0;
   overflow-x: hidden; /* Disable horizontal scroll */
   padding-top: 20px;
