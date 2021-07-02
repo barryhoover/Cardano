@@ -8,8 +8,7 @@ body {
 
 /*----Column 1---- */
 .sidenav{
-  margin-bottom: -5000px; /* any large number will do */
-  padding-bottom: 5000px;
+
   column-width: 100px;
   background-color: #0c0461;
   font-family: arial;
