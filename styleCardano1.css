@@ -8,12 +8,17 @@ body {
 
 /*----Column 1---- */
 .sidenav{
-  column-width: 200px;
+  column-width: 100px;
   position: fixed;
   background-color: blue;
   font-family: arial;
   font-size: 12px;
   text-align: justify;
+  z-index: 1; /* Stay on top */
+  top: 0; /* Stay at the top */
+  left: 0;
+  overflow-x: hidden; /* Disable horizontal scroll */
+  padding-top: 20px;
   
 }    
 
@@ -33,7 +38,7 @@ body {
 .main{
   background-color: white;
   color: blue
-  margin-left: 200px; /* Same as the width of the sidebar */
+  margin-left: 100px; /* Same as the width of the sidebar */
   padding: 0px 10px;
 }
 
