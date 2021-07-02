@@ -5,18 +5,14 @@ body {
     font-size: 21px;
 }
 
-div {
-  column-count: 2;
-}
 
 /*----Column 1---- */
 .sidenav{
   column-width: 200px;
   position: fixed;
-  background-color: #0c0461;
-  font-color: white
+  background-color: blue;
   font-family: arial;
-  font-size: 14px;
+  font-size: 12px;
   text-align: justify;
   
 }    
