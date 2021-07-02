@@ -11,9 +11,11 @@ div {
 
 /*----Column 1---- */
 .sidebar{
-  column-width: 150px;
+  column-width: 300px;
   background-color: #0c0461;
-  color: white
+  font-color: white
+  font-family: arial;
+  font-size: 14px;
   text-align: justify;
   a:link {color:white;text-decoration:none;}
   a:visited {color:white;text-decoration:none;}
