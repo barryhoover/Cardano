@@ -6,6 +6,7 @@ body {
 }
 
 .sidebar{
+  column-width: 150px;
   background-color: #0c0461;
   color: white
   text-align: justify;
