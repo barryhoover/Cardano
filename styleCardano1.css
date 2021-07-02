@@ -14,7 +14,6 @@ body {
   position: fixed;
   background-color: #0c0461;
   font-family: arial;
-  font-size: 12px;
   text-align: justify;
   
   left: 0;
@@ -26,7 +25,7 @@ body {
 .sidenav a {
   padding: 6px 8px 6px 16px;
   text-decoration: none;
-  font-size: 25px;
+  font-size: 15px;
   color: #818181;
   display: block;
 }
