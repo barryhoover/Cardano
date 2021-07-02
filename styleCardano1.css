@@ -10,22 +10,35 @@ div {
 }
 
 /*----Column 1---- */
-.sidebar{
-  column-width: 300px;
+.sidenav{
+  column-width: 200px;
+  position: fixed;
   background-color: #0c0461;
   font-color: white
   font-family: arial;
   font-size: 14px;
   text-align: justify;
+  
 }    
-  a:link {color:white;text-decoration:none;}
-  a:visited {color:white;text-decoration:none;}
-  a:hover {text-decoration:underline;}
+
+.sidenav a {
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #818181;
+  display: block;
+}
+
+.sidenav a:hover {
+  color: #f1f1f1;
+}
 
 /*----Column 2----*/
 .main{
   background-color: white;
   color: blue
+  margin-left: 200px; /* Same as the width of the sidebar */
+  padding: 0px 10px;
 }
 
 /* ======== Typography ======== */
@@ -90,9 +103,6 @@ header{
   padding: 0 60px;
 }
 
-.rows{
-    
-}
 
  
 
