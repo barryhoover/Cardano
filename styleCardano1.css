@@ -8,6 +8,7 @@ body {
 
 /*----Column 1---- */
 .sidenav{
+  height: 100%;
   column-width: 100px;
   position: fixed;
   background-color: #0c0461;
