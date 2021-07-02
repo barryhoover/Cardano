@@ -14,7 +14,7 @@ body {
   position: fixed;
   background-color: #0c0461;
   font-family: arial;
-  text-align: justify;
+  text-align: left;
   
   left: 0;
   overflow-x: hidden; /* Disable horizontal scroll */
