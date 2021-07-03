@@ -9,7 +9,7 @@ body {
 /*----Column 1---- */
 .sidenav{
   height: 100%;
-  width: 120px;
+  width: 140px;
   background-color: #0c0461;
   font-family: arial;
   text-align: left;
@@ -37,7 +37,7 @@ body {
 .main{
   background-color: white;
   color: blue
-  margin-left: 120px;  /*Same as the width of the sidebar */
+  margin-left: 140px;  /*Same as the width of the sidebar */
   padding: 0px 10px;
   
 }
@@ -98,7 +98,7 @@ header{
 
 .columns{
   display: flex;
-  padding-left: 120px;
+  padding-left: 140px;
 }
 
 .column{
