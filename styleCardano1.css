@@ -1,6 +1,6 @@
 /* ======== Global Style ======== */
 body {
-    margin-left: 120px;
+    margin: 0;
     font-family: arial;
     font-size: 21px;
 }
@@ -15,7 +15,7 @@ body {
   text-align: left;
   
   
-  overflow-x: hidden; /* Disable horizontal scroll */
+  overflow-x: visible; /* Disable horizontal scroll */
   padding-top: 2px;
   
 }    
