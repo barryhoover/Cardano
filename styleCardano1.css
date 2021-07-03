@@ -8,11 +8,12 @@ body {
 
 /*----Column 1---- */
 .sidenav{
-
+    height: 80%;
   column-width: 400px;
   background-color: #0c0461;
   font-family: arial;
   text-align: left;
+  position: fixed;
   
   
   overflow-x: visible; /* Disable horizontal scroll */
