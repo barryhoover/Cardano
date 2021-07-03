@@ -38,10 +38,9 @@ body {
 .main{
   background-color: white;
   color: blue
-  /*margin-left: 15%;  Same as the width of the sidebar */
+  margin-left: 130px;  /*Same as the width of the sidebar */
   padding: 0px 10px;
-  width: 85%;
-  right: 0;
+  
 }
 
 /* ======== Typography ======== */
