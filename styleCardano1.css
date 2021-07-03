@@ -81,7 +81,7 @@ header{
 .intro{
   color: black;
   text-align: justify;
-  padding: 0 20px 0 110px;
+  padding: 0 20px 0 100px;
 }
 
 .blank{
@@ -98,7 +98,7 @@ header{
 
 .columns{
   display: flex;
-  padding-left: 150px;
+  padding-left: 100px;
 }
 
 .column{
