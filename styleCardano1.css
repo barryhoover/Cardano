@@ -81,12 +81,12 @@ header{
 .intro{
   color: black;
   text-align: justify;
-  padding: 0 20px 0 150px;
+  padding: 0 20px 0 120px;
 }
 
 .blank{
   back-ground-color: #0a194a;
-  margin: 20px auto;
+  margin: 10px auto;
 }
 
 .my-skills{
