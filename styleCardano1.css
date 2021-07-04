@@ -24,7 +24,7 @@ body {
 .sidenav a {
   padding: 2px 4px 2px 10px;
   text-decoration: none;
-  font-size: 16px;
+  font-size: 17px;
   color: #c2e9f2;
   display: block;
 }
@@ -98,7 +98,7 @@ header{
 
 .columns{
   display: flex;
-  padding-left: 220px;
+  padding-left: 10px;
 }
 
 .column{
