@@ -10,8 +10,8 @@ body {
 .sidenav{
   height: 100%;
   width: 220px;
-  background: rgb(0,110,157);
-  background: radial-gradient(circle, rgba(0,110,157,1) 26%, rgba(0,27,77,1) 74%);
+  background: rgb(0,44,157);
+  background: radial-gradient(circle, rgba(0,44,157,1) 50%, rgba(0,27,77,1) 100%);
   /*background-color: #0a194a;*/
   font-family: arial;
   text-align: left;
