@@ -10,7 +10,9 @@ body {
 .sidenav{
   height: 100%;
   width: 220px;
-  background-color: #0a194a;
+  background: rgb(0,110,157);
+  background: radial-gradient(circle, rgba(0,110,157,1) 26%, rgba(0,27,77,1) 74%);
+  /*background-color: #0a194a;*/
   font-family: arial;
   text-align: left;
   position: fixed;
@@ -47,7 +49,7 @@ body {
 h1 {
   font-size: 45px;
   text-align: center;
-  padding: 0 20px 0 30px;
+  padding: 0 /*20px 0 30px*/;
   color: #04388c;
 }
 
