@@ -83,7 +83,7 @@ header{
 .intro{
   color: black;
   text-align: justify;
-  padding: 0 0 0 20px;
+  padding: 0 0 0 10px;
 }
 
 .blank{
@@ -100,7 +100,7 @@ header{
 
 .columns{
   display: flex;
-  padding-left: 260px;
+  padding-left: 300px;
 }
 
 .column{
