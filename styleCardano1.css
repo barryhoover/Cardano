@@ -83,7 +83,8 @@ header{
 .intro{
   color: black;
   text-align: justify;
-  padding: 0 50 0 400px;
+  margin: 0 50 0 400px;
+  padding: 10px;
 }
 
 .blank{
