@@ -54,13 +54,13 @@ h1 {
 }
 
 h2 {
-  font-size: 36px;
+  font-size: 30px;
   color: #04388c;
   text-align: center;
   }
 
 h3{
-  font-size: 28px;
+  font-size: 24px;
 }
 
 /* ======== Layout ======== */
@@ -100,7 +100,7 @@ header{
 
 .columns{
   display: flex;
-  padding-left: 300px;
+  padding-left: 260px;
 }
 
 .column{
