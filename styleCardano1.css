@@ -83,7 +83,7 @@ header{
 .intro{
   color: black;
   text-align: justify;
-  margin: 0 50 0 450px;
+  margin: 0 50px 0 500px;
   padding: 10px;
 }
 
@@ -102,7 +102,7 @@ header{
 .columns{
   display: flex;
   margin-left: 220px
-    padding-left: 10px;
+  padding-left: 20px;
 }
 
 .column{
