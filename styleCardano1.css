@@ -100,11 +100,12 @@ header{
 
 .columns{
   display: flex;
-  padding-left: 0 50 0 350px;
+  margin-left: 220px
+    padding-left: 10px;
 }
 
 .column{
-  padding: 0 30px;
+  padding: 10px 30px;
   
   
 }
