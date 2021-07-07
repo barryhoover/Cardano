@@ -39,8 +39,8 @@ body {
 .main{
   background-color: white;
   color: blue
-  margin-left: 230px;  /*Same as the width of the sidebar */
-  padding: 0 10px 0 0;
+  margin-left: 300px;  /*Same as the width of the sidebar */
+  padding: 0;
   
 }
 
