@@ -95,13 +95,13 @@ header{
 .my-skills{
   background-color: #0a194a;
   color: white;
-  margin: 10px 20px 10px 220px;
+  margin: 10px 50px 10px 300px;
   text-align: center;
 }
 
 .columns{
   display: flex;
-  margin: 0 50px 0 300px
+  margin: 0 10px 0 10px
   padding: 10px;
 }
 
