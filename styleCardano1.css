@@ -83,8 +83,8 @@ header{
 .intro{
   color: black;
   text-align: justify;
-  margin: 0 50px 0 250px;
-  padding: 10px 50px 10px 60px;
+  margin: 0 /*50px 0 250px*/;
+  padding: 10px 50px /*10px 60px*/;
 }
 
 .blank{
@@ -95,13 +95,14 @@ header{
 .my-skills{
   background-color: #0a194a;
   color: white;
-  margin: 10px 50px 0 270px;
+  /*margin: 10px 50px 0 270px;*/
+  padding: 10px 50px;
   text-align: center;
 }
 
 .columns{
   display: flex;
-  margin: 0 10px 0 10px
+  /*margin: 0 10px 0 10px*/
   padding: 10px;
 }
 
