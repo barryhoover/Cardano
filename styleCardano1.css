@@ -41,7 +41,7 @@ body {
   background-color: white;
   color: blue
   margin-left: 360px;  /*Same as the width of the sidebar */
-  padding: 10px 40px 10px 0;
+  padding: 0 40px 10px 0;
   
 }
 
