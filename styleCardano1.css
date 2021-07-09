@@ -105,6 +105,9 @@ header{
   display: flex;
   margin: 0 10px 0 10px
   padding: 10px;
+    -webkit-column-rule: 1px dashed white;
+     -moz-column-rule: 1px dashed white;
+          column-rule: 1px dashed white;
 }
 
 .column{
