@@ -97,15 +97,15 @@ header{
 .my-skills{
   background-color: #0a194a;
   color: white;
-  margin: 10px 50px 0 300px;
-  padding: 10px 80px;
+  margin: 10px 50px 0 350px;
+  padding: 10px 20px;
   text-align: center;
 }
 
 .columns{
   display: flex;
-  /*margin: 0 10px 0 10px*/
-  padding: 10px;
+  margin: 0 10px 0 10px
+  
 }
 
 .column{
