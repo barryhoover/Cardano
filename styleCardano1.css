@@ -102,7 +102,7 @@ header{
 }
 
 .columns{
-  display: fixed;
+  display: flex;
   margin: 0 10px 0 10px
   padding: 10px;
 
@@ -111,8 +111,5 @@ header{
 .column{
   padding: 10px 30px;
    text-align: center;
-      -webkit-column-rule: 1px dashed white;
-     -moz-column-rule: 1px dashed white;
-          column-rule: 1px dashed white;
-  
+ 
 }
