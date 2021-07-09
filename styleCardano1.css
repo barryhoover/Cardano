@@ -102,9 +102,7 @@ header{
 }
 
 .columns{
-  display: fixed;
-    /*display: flex;*/
-   /* layout: fixed;*/
+  display: flex;
   margin: 0 10px 0 10px
   padding: 10px;
 
