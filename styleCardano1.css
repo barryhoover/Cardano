@@ -74,7 +74,8 @@ header{
 
 .center {
   display: block;
-  margin: 20px 0 20px 100px;
+  margin: 20px auto;
+  padding-left: 50px;
   width: 50%;
 }
 
