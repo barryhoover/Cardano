@@ -40,7 +40,7 @@ body {
 .main{
   background-color: white;
   color: blue
-  margin-left: 350px;  /*Same as the width of the sidebar */
+  margin-left: 360px;  /*Same as the width of the sidebar */
   padding: 10px 40px 10px 0;
   
 }
@@ -76,7 +76,7 @@ header{
 .center {
   display: block;
   margin: 0 auto;
-  padding-left: 220px;
+  padding-left: 230px;
   width: 50%;
 }
 
@@ -85,7 +85,7 @@ header{
 .intro{
   color: black;
   text-align: justify;
-  margin: 0 50px 0 260px;
+  margin: 0 50px 0 280px;
   padding: 10px 50px 10px 60px;
 }
 
