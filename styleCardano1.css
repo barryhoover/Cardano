@@ -39,7 +39,7 @@ body {
 .main{
   background-color: white;
   color: blue
-  margin-left: 300px;  /*Same as the width of the sidebar */
+  margin-left: 350px;  /*Same as the width of the sidebar */
   padding: 0;
   
 }
@@ -49,7 +49,7 @@ body {
 h1 {
   font-size: 45px;
   text-align: center;
-  margin-left: 110px;
+  margin-left: 170px;
   color: #00276e;
 }
 
