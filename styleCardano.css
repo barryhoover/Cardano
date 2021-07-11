@@ -24,8 +24,9 @@ display: block;
 
 .dropdown-content a {
 display: block;
-color: #4096ff;
-padding: 0px;
+text-size: 16px;
+    color: #4096ff;
+padding: 1px;
 text-decoration: none;
 }
 
