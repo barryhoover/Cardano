@@ -8,6 +8,10 @@ body {
 .dropdown {
 display: inline-block;
 position: relative;
+background-color: #00276e;    
+text-size: 16px;
+color: white;
+    
 }
 
 .dropdown-content {
