@@ -16,7 +16,7 @@ position: relative;
  width: 100%;
  overflow: auto;
  box-shadow: 0px 10px 10px 0px rgba(0,0,0,0.4);
- text-size: 16px;
+ text-size: 12px;
     
 }
 
@@ -26,7 +26,7 @@ display: block;
 
 .dropdown-content a {
 display: block;
-    color: #4096ff;
+color: #4096ff;
 padding: 1px;
 text-decoration: none;
 }
