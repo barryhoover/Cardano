@@ -16,6 +16,8 @@ position: relative;
  width: 100%;
  overflow: auto;
  box-shadow: 0px 10px 10px 0px rgba(0,0,0,0.4);
+ text-size: 16px;
+    
 }
 
 .dropdown:hover .dropdown-content {
@@ -24,7 +26,6 @@ display: block;
 
 .dropdown-content a {
 display: block;
-text-size: 16px;
     color: #4096ff;
 padding: 1px;
 text-decoration: none;
