@@ -74,28 +74,13 @@ body {
 .dropdown:hover .dropdown-content {
   display: block;
 }
-
-
-
-
-
-
-
-
-
-
-
-
 /*----color: #78fa1b;*/
-
-
 
 .main{
   background-color: white;
   color: blue
   margin: 0 auto;  
   padding: 10px;
-  
 }
 
 /* ======== Typography ======== */
