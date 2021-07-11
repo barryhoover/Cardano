@@ -114,3 +114,10 @@ header{
    text-align: center;
  
 }
+
+caption{
+    text-align:center;
+    color:#82817d;
+    font-size:6px;
+    margin-left:500px; 
+}   
