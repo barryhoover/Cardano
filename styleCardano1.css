@@ -15,7 +15,7 @@ body {
   font-family: arial;
   text-align: left;
   position: fixed;
-  display: flex;
+  /*display: flex;*/
   /*justify-content: flex-end;*/
   left:0;
   top:0;
@@ -115,7 +115,7 @@ header{
  
 }
 
-.caption{
+caption{
     text-align:center;
     color:#82817d;
     font-size:6px;
