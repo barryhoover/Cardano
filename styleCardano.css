@@ -19,6 +19,7 @@ color: #414345;
  position: absolute;
  width: 100%;
  overflow: auto;
+ color: red;   
  box-shadow: 0px 10px 10px 0px rgba(0,0,0,0.4);
  
     
