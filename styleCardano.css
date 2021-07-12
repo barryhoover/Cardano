@@ -45,9 +45,10 @@ button {
     border: none;
     padding-top: 5px;
     padding-bottom: 5px;
+    background-color: #00276e;
     color: white;
     font-weight: bold;
-    font-size: 18px;
+    font-size: 15px;
     width: 200px;
     margin-bottom: 5px;
     border-radius: 5px;
