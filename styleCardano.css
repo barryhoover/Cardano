@@ -9,7 +9,7 @@ body {
 display: inline-block;
 position: relative;
 margin: 0 0 0 1px;    
-text-size: 12px;
+font-size: 18px;
 color: #414345;
     
 }
@@ -31,7 +31,7 @@ display: block;
 
 .dropdown-content a {
 display: block;
-font-size: 12px;    
+font-size: 15px;    
 color: #4096ff;
 padding: 3px;
 text-decoration: none;
