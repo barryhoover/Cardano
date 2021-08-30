@@ -55,8 +55,8 @@ button {
 }
 
 .main{
-  background-color: white;
-  color: blue
+  /* background-color: white; */
+  color: blue;
   margin: 0 auto;  
   padding: 10px;
 }
